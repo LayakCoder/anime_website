@@ -76,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Visit Website For More Components
 
-[LayakCoder.com]([https://github.com/facebook/create-react-app](https://layakcoder.com/))
+[LayakCoder.com](https://layakcoder.com/)
